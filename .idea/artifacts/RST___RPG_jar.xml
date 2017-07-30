@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RST - RPG:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RST___RPG_jar</output-path>
+    <root id="archive" name="RST - RPG.jar">
+      <element id="module-output" name="RST - RPG" />
+      <element id="library" level="module" name="res" module-name="RST - RPG" />
+    </root>
+  </artifact>
+</component>
